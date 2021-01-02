@@ -9,6 +9,7 @@ If the government charges excessive fees for otherwise essential services, the r
 In contrast, tax laws are mandatory and frequently require enforcement.
 
 Tax laws favor the government and often contain self-help or penalty provisions:
+
 - Assessments that require the taxpayer to challenge the government's position in court or otherwise lose or diminish the ability to contest the tax.
 - Penalties that rapidly make it economically disadvantageous to fail to pay the tax.
 - Seizure provisions that allow the government to attach or take taxpayer property without judicial involvement.

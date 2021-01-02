@@ -5,6 +5,7 @@ An important component of [[civil law]]: government telling itself how to operat
 While many of the rules may appear to be internal and mundane, they can have a significant impact on government clients.
 
 Government law:
+
 - Sets procedures and time limits for making claims against the government for wrongdoing.
 - Determines procedures and preferences in public contracting.
 - Regulates government employee benefits

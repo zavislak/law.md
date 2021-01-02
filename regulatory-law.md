@@ -6,6 +6,7 @@ Regulatory law encompasses the enormous and continuously growing body of law tha
 Unlike [[tort law]] which requires either proof of damages or proof of intent to cause harm in order to be actionable, regulatory law only requires proof of noncompliance.
 
 Regulatory law:
+
 - Requires you to take or prohibits you from taking certain medical treatments.
 - Establishes minimum workplace safety conditions.
 - Sets the rules of the road.

@@ -3,6 +3,7 @@
 Reading these is a great way to learn [[law]].
 
 State resources:
+
 - California
   - Civil: https://www.courts.ca.gov/partners/documents/Judicial_Council_of_California_Civil_Jury_Instructions.pdf
   - Criminal: https://www.courts.ca.gov/partners/documents/CALCRIM_2020.pdf
@@ -16,6 +17,7 @@ State resources:
   - Criminal: http://www.nycourts.gov/judges/cji/index.shtml
 
 Federal resources:
+
 - 1st Circuit
   - Criminal: https://www.med.uscourts.gov/pdf/crpjilinks.pdf
 - 5th Circuit

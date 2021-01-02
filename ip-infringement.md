@@ -7,6 +7,7 @@ Just like tangible property may be used without permission, intangible property 
 Most forms of IP infringement are [[strict liability]]; no intent is required.
 
 See also:
+
 - [[Copyright law]]
 - [[Patent law]]
 - [[Trademark law]]

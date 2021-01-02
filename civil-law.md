@@ -6,6 +6,7 @@ Civil law provides a default framework for interactions between people (includin
 A subset of civil law, [[contract law]], provides a mechanism for modifying that default framework.
 
 Generally speaking, civil law:
+
 - Provides compensation for damages ([[tort law]])
 - Settles ownership disputes ([[property law]])
 - Regulates behavior ([[regulatory law]])

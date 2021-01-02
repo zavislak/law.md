@@ -5,6 +5,7 @@ The most readily available example is negligence, which is why many people purch
 The intentional counterparts exist as well (e.g., [[battery law]]), 
 
 There are a number of others too, a few examples:
+
 - [[Defamation]]
 - [[IP infringement]]
 - [[Business interference]]

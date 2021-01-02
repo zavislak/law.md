@@ -5,6 +5,7 @@ Answers the important [[civil law]] question: Who has the right to use, exclude 
 Property can be either [[tangible property]] or [[intangible property]].
 
 By way of example, property law resolves or creates the following issues:
+
 - When does property need to be registered, and what are the consequences of not registering?
 - What happens to property when the owner dies?
 - What happens to property when the owner is incapacitated?
